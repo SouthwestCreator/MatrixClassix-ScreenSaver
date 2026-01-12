@@ -1,7 +1,7 @@
 ﻿# 🟢 MatrixClassix ScreenSaver
 **A high-performance Windows Screen Saver with a custom "Message Decoder" engine.**
 
----
+
 
 ## 👨‍💻 Developer Notes
 I’m a Computer Science student who couldn't find a Matrix screensaver that felt "right" or offered modern customization.
@@ -16,14 +16,14 @@ I built this to practice **Win32 API programming** and state-machine logic.
 * **Persistence:** Windows Registry (User settings storage)
 * **Installer:** Inno Setup (Handles System32 deployment)
 
----
+
 
 ## ✨ Features
 * **The Decoder:** After the initial 'rain', the system "glitches" to reveal your custom message.
 * **Full Customization:** Change the message, speed, and colors via the native Windows Screen Saver settings.
 * **Optimized:** Written in pure C++ with no heavy engines, ensuring it won't lag your PC.
 
----
+
 
 ## 🛠️ Installation
 1. Download `MatrixClassix_Setup.exe`.
